@@ -1,0 +1,1 @@
+web: gunicorn extrair_cert:app
